@@ -36,6 +36,7 @@ int main(){
                 case '/': n3=n2/n1;
                           break;
             }
+            
             push(n3);
         }
         e++;
